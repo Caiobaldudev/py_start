@@ -18,6 +18,6 @@ print("\nFor utilizando dicionatio - valores")
 for valor in pessoa.values():
   print(valor)
 
-print("\nFor utilizando dicionatio - items")
+print("\nFor utilizando dicionario - items")
 for chave, valor in pessoa.items():
   print(f"{chave}: {valor}")
